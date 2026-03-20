@@ -1,14 +1,26 @@
 [
   {
-    "id": "game1",
-    "title": "Example Game 1",
-    "thumbnail": "https://via.placeholder.com/150",
-    "url": "https://www.example.com/game1-embed"
+    "id": "durango-basketball",
+    "title": "Durango Basketball",
+    "thumbnail": "https://via.placeholder.com/300x200/fb8c00/ffffff?text=Basketball",
+    "url": "https://durangobasketball.com/"
   },
   {
-    "id": "game2",
-    "title": "Example Game 2",
-    "thumbnail": "https://via.placeholder.com/150",
-    "url": "https://www.example.com/game2-embed"
+    "id": "wordle-infinite",
+    "title": "Wordle Infinite",
+    "thumbnail": "https://via.placeholder.com/300x200/4caf50/ffffff?text=Wordle",
+    "url": "https://wordleinfinite.org/"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io",
+    "thumbnail": "https://via.placeholder.com/300x200/e91e63/ffffff?text=Paper.io",
+    "url": "https://paperio.site/"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "thumbnail": "https://via.placeholder.com/300x200/795548/ffffff?text=Cookie+Clicker",
+    "url": "https://games.engineering.com/cookie-clicker/index.html"
   }
 ]
